@@ -1,0 +1,17 @@
+{
+  "name": "myothello",
+  "version": "1.0.0",
+  "description": "othello ai player implementation",
+  "main": "index.js",
+  "scripts": 
+    { "othelloClient": "node client.js"}
+  ,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-serve": "^1.4.0",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^1.7.4"
+  }
+}
